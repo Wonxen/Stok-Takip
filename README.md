@@ -31,5 +31,8 @@
 <details>
     <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
     <p align="center">
+        <img src="">
+        <img src="">
+        <img src="">
     </p>
 </details>
