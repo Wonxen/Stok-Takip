@@ -31,8 +31,19 @@
 <details>
     <summary align="center"> &nbsp; &nbsp; &nbsp; <b>Görseller</b></summary>
     <p align="center">
-        <img src="">
-        <img src="">
-        <img src="">
+      <h1 align="center">Uygulama içi</h1>
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115399445278883910/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115400895526604820/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115400967563771984/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115401073516101724/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115401073516101724/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115401323320451082/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115414477324681296/image.png">
+      <h1 align="center">Yapılan İşlemler</h1>
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115402583608131644/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115402761220145202/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115401886103769128/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115402831747354624/image.png">
+        <img src="https://cdn.discordapp.com/attachments/1018013456730959976/1115406356980187136/image.png">
     </p>
 </details>
